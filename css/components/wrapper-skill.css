@@ -1,0 +1,5 @@
+.wrapper-skill{
+	display: inline-flex;
+	flex-direction: column;
+	margin-left: 350px;
+}
