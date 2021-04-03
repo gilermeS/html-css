@@ -1,7 +1,12 @@
-h1{
-    display: inline-block;
+.title{
     color: #1f4e60;
     font-size: 40px;
     font-family: "Press Start 2P", sans-serif;
     text-shadow: 4px 4px 0px black;
+}
+
+.title.-second{
+	color: ivory;
+	text-align: center;
+	background-color: rgb(180, 128, 240);
 }
